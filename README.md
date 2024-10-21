@@ -17,7 +17,7 @@ curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-in
 ![image](https://github.com/user-attachments/assets/531dd00f-9965-4ec3-87f5-a4042e7d46b3)
 
 Далее переходим на веб интерфейс Wazuh
-![image](https://github.com/user-attachments/assets/c2101915-d35d-40b3-8c0a-ef6f3a063fcc)
+![image](https://github.com/user-attachments/assets/5bad5bfc-8c74-4fdd-b9de-11603fb994c9)
 
 Теперь необходимо установить агент на ВМ, которые мы хотим мониторить.с Wazuh
 ![image](https://github.com/user-attachments/assets/a275cf29-11d7-484f-b7a5-347313b20e19)
